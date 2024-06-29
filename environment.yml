@@ -1,0 +1,10 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - voila
+  - scikit-learn
+  - pandas
+  - numpy
+  # Add any other dependencies your notebook requires
